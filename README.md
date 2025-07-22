@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="به نام خدا.png" alt="به نام خدا" width="30%">
+  <img src="بنام خداوند.jfif" alt="به نام خدا" width="30%">
 </p>
 
 <h1 align="center">
