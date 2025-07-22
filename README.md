@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <b>Creative developer | Tech explorer | ُStudy</b>
+  <b>Creative developer | Tech explorer | ُStudy..</b>
 </p>
 
 ---
