@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="بنام خداوند.jfif" alt="به نام خدا" width="30%">
+  <img src="بنام خداوند.jfif" alt="به نام خدا" width="30%"> <br>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rezayat-ict.Rezayat-ict" alt="Visitor Badge" />
 </p>
 
 <h1 align="center">
