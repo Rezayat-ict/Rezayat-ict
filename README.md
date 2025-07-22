@@ -1,4 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rezayat-ict.Rezayat-ict" alt="Visitor Badge" />
+<p align="center">
+  <img src="به نام خدا.png" alt="به نام خدا" width="30%">
+</p>
 
 <h1 align="center">
   Hello, I'm Rezayat! 👋
