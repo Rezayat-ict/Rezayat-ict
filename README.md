@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Creative developer | Tech explorer | Open-source contributor</b>
+  <b>Creative developer | Tech explorer | ُStudy</b>
 </p>
 
 ---
@@ -14,14 +14,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,c,java,ubuntu,latex" />
-</div>
-
----
-
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rezayat-ict/Rezayat-ict/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
