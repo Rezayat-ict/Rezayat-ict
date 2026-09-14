@@ -16,7 +16,7 @@
 <h2 align="center">⚒️ Languages, Frameworks & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,c,java,ubuntu,latex" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,c,java,ubuntu,latex" />
 </div>
 
 ---
